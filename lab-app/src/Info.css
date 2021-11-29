@@ -1,0 +1,15 @@
+.Info {
+  display: flex;
+  justify-content: space-around;
+  margin: 2em;
+}
+
+.custom-img {
+  width: 6em;
+}
+
+.Info-text {
+  font-size: 14px;
+  font-weight: 200;
+  margin: 5px;
+}
